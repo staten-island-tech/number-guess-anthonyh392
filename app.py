@@ -17,7 +17,7 @@ import time
 os.system('cls')
 
 # Generate the random number
-random_number = random.randint(1, 100)
+random_number = random.randint(1, 1000)
 
 # Global guess variable
 guess = 0
